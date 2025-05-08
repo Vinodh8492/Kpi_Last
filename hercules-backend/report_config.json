@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "sender": "syed.rawoof.hercules@gmail.com",
+  "recipient": "v.kumar@controlytics.net",
+  "time": "14:01",
+  "include": {
+    "charts": true,
+    "kpis": true,
+    "table": false
+  }
+}
